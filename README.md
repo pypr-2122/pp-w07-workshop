@@ -37,7 +37,7 @@ print(r.json())
 
 where the `.json()` method of the `Request` object `r` returns a Python dictionary containing your requested data.
 
-Use the URL from the website to make a request from your Python script.
+Copy and paste the URL from the website to make a request from your Python script.
 
 ### Plotting the results
 
